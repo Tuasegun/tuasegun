@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tuasegun</h1>
-<h3 align="center">A software developer and lover of computers</h3>
+<h3 align="center">I build stuff | I learn stuff</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuasegun&label=Profile%20views&color=0e75b6&style=flat" alt="tuasegun" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tuasegun" alt="tuasegun" /></a> </p>
 
-- 🔭 I’m currently working on **Finance Solutions and Open Source Contributions**
+- 🔭 I’m currently working on **Open Source Contributions and Couple of Interesting Project**
 
 - 👨‍💻 All of my projects are available at [https://segunfolio.netlify.app/](https://segunfolio.netlify.app/)
 
